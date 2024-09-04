@@ -1,0 +1,37 @@
+[33mcommit 18440e870ec9de592da7e593281a6e7160cf0b56[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Mon Sep 2 14:27:11 2024 +1200
+
+    Remove aws from store.
+
+[33mcommit 83be7cd70e1d07f4d3048f4a95648cf0e53165cd[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Thu Aug 29 20:08:23 2024 +1200
+
+    Add generated password for github/personal.
+
+[33mcommit 12e4f7e9d0e76ad9b28abd05a8fefd25c3c13b6a[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Thu Aug 29 20:01:33 2024 +1200
+
+    Add given password for github/person to store.
+
+[33mcommit e1bbd8fa082742b06ca508bdc95caba36c0002cd[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Thu Aug 29 17:52:15 2024 +1200
+
+    Revert "Add generated password for aws."
+    
+    This reverts commit 5e5acc706b07da927049ad9249ff853e43930986.
+
+[33mcommit 5e5acc706b07da927049ad9249ff853e43930986[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Thu Aug 29 17:42:16 2024 +1200
+
+    Add generated password for aws.
+
+[33mcommit 52c1fbd0497d0259a9f24e67924460349ea1a1e3[m
+Author: g <g.dykes@paradise.net.nz>
+Date:   Thu Aug 29 17:37:31 2024 +1200
+
+    Set GPG id to 0955A160678623660B35D3844175FEB615E5C21B.
